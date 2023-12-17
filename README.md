@@ -1,2 +1,2 @@
 ## Pattern schema
-![screenshot1](AbstractFactoryMethodPattern.png)
+![screenshot1](AbstractFactoryPattern.png)
